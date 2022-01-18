@@ -2,8 +2,8 @@
 Universo Santa Tecla  
 [uSantaTecla@gmail.com](mailto:uSantaTecla@gmail.com)  
   
-## requirements 
+## v0 
 
-* Escribe con un lenguaje de publicación (html/css, svg, ...) un tablero lo "más" parecido posible a la siguiente imagen
+* Escribe con un lenguaje de publicación (html/css, svg, ...) una presentación de la información  tablero lo "más" parecido posible a la siguiente imagen
 
-![Tictactoe](../docs/images/tictactoe.png) 
+![Papúa Guinea](../docs/images/country.svg)  

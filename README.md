@@ -16,8 +16,8 @@ Universo Santa Tecla
 
 [restcountries](https://restcountries.com/)
 
-### [Papúa Guinea](https://restcountries.com/v3.1/name/Papua New Guinea)
+### [Papúa Guinea](https://restcountries.com/v3.1/name/Papua)
 
-![Vocabulario](./docs/images/country.svg)  
+![Papúa Guinea](./docs/images/country.svg)  
 
 ### [allData](https://restcountries.com/v3.1/all)
