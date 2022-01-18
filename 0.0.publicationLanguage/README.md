@@ -4,6 +4,6 @@ Universo Santa Tecla
   
 ## v0 
 
-* Escribe con un lenguaje de publicación (html/css, svg, ...) una presentación de la información  tablero lo "más" parecido posible a la siguiente imagen
+* Escribe con un lenguaje de publicación (html/css, svg, ...) una presentación de la información del siguiente país
 
 ![Papúa Guinea](../docs/images/country.svg)  
