@@ -8,7 +8,7 @@ Universo Santa Tecla
 * [versions](#versions)
     * [0.0.dataLanguage](./0.0.dataLanguages/README.md)
     * [0.0.publicationLanguage](./0.0.publicationLanguage/README.md)
-    *[0.0.programmingLanguage](./0.0.programmingLanguage/README.md)
+    * [0.0.programmingLanguage](./0.0.programmingLanguage/README.md)
     * [1.0.basic](./1.0.basic/README.md)
 
 ## domainModel  
