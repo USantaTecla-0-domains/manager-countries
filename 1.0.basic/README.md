@@ -39,8 +39,26 @@ Opción? 5
 Opción? 2
 
 --- EUROPA ---
-1. Areas
-2. Poblacion
+Población media: xxxx.xx
+3 países más poblados:
+XXXX - xxxx
+XXXX - xxxx
+XXXX - xxxx
+3 países menos poblados:
+XXXX - xxxx
+XXXX - xxxx
+XXXX - xxxx
+
+Area media: xxxx.xx
+3 países más extensos:
+XXXX - xxxx
+XXXX - xxxx
+XXXX - xxxx
+3 países menos extensos:
+XXXX - xxxx
+XXXX - xxxx
+XXXX - xxxx
+
 
 
 ```
